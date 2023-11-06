@@ -41,8 +41,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
  <div>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple&layout=compact" alt="AlexKoshelev" align="center" width="400" height="400"/>
-
- <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="center" width="400" height="400"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="center" width="400" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple&layout=compact" alt="AlexKoshelev" align="center" width="400"/>
 </div>
 
