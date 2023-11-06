@@ -7,7 +7,7 @@
 
 
 <span>
- <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="470" />
+ <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="right" width="470" />
 </span>
 
 
@@ -29,16 +29,12 @@
  
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-  ![Redux](https://img.shields.io/badge/MobX-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+ ![Redux](https://img.shields.io/badge/MobX-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
  ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
- 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
