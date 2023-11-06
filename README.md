@@ -10,14 +10,14 @@
  <img src="https://github-readme-stats.vercel.app/api?username=solexofficial&show_icons=true&locale=en&theme=shades-of-purple" alt="solexofficial" align="right" width="470" />
 </span>
 
-- 💖 &nbsp;Develop platforms by **Typescript, React, nextJS**
-- 🧑‍💻 &nbsp;Frontend Mentor at **[Result school](https://result.school/)**
-- 🥼 &nbsp;Researcher of VR/webXR, 3D tech. 
-- 🦄 &nbsp;Let's talk more in **[Telegram](https://t.me/thesolex)**
+
+- 🧑‍💻 &nbsp; Frontend разработчик с опытом более двух лет
+- 💬 &nbsp; связаться со мной **[Telegram](https://t.me/AlexAlexandrow)**
+- 📫 &nbsp; или **alexdevelwork@gmail.com**
 
 <br>
 
-<h2 align="left">Tech stack</h2>
+<h2 align="left">Мой стек:</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +29,7 @@
  
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Redux](https://img.shields.io/badge/MobX-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
