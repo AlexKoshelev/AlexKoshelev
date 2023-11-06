@@ -6,9 +6,9 @@
 
 
 
-<span>
- <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="right" width="470" />
-</span>
+<div>
+ <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="center" width="500" />
+</div>
 
 
 - 🧑‍💻 &nbsp; Frontend разработчик с опытом более двух лет
