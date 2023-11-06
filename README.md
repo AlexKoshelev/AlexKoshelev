@@ -41,6 +41,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
  <div>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple&layout=compact" alt="AlexKoshelev" />
+
  <img src="https://github-readme-stats.vercel.app/api?username=AlexKoshelev&show_icons=true&locale=en&theme=shades-of-purple" alt="AlexKoshelev" align="center" width="500" />
 </div>
 
