@@ -1,6 +1,6 @@
-# <h4 align="left">✋Всем привет, меня зовут Александр и я Fronted Feveloper</h4>
+# <h4 align="left">✋Всем привет, меня зовут Александр и я Fronted Developer</h4>
 
-<div>
+<div align="right">
 <span><img src="https://komarev.com/ghpvc/?username=AlexKoshelev&label=Profile%20views&color=0e75b6&style=flat" alt="AlexKoshelev" /></span>
 </div>
 
