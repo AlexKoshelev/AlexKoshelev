@@ -7,7 +7,6 @@
 
 
 
-
 - 🧑‍💻 &nbsp; Frontend разработчик с опытом более двух лет
 - 💬 &nbsp; связаться со мной **[Telegram](https://t.me/AlexAlexandrow)**
 - 📫 &nbsp; или **alexdevelwork@gmail.com**
